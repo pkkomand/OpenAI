@@ -1,6 +1,6 @@
-Signup and Login to Bubble.io
+1. Signup and Login to Bubble.io
 In Bubble.io , Click on "Create an App" button
-Provide an App Name, I chose "PlanaTrip"
+2. Provide an App Name, I chose "PlanaTrip"
 Click Next Step for all the prompts for now and Get Started Building button
 <img width="257" alt="image" src="https://github.com/pkkomand/OpenAI/assets/133718774/4d026c5f-1114-4982-b075-df34332e2e51">
 
